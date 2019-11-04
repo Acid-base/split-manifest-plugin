@@ -1,5 +1,3 @@
-# NOT READY!
-
 # Split Manifest Plugin
 
 Webpack plugin for split json files.

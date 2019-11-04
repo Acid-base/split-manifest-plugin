@@ -1,0 +1,11 @@
+{
+  "name": "split-manifest-plugin",
+  "version": "1.0.0",
+  "description": "This plugin is used to split json files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
